@@ -1,0 +1,30 @@
+# Environment variables
+.env
+.env.local
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Media files
+*.mp4
+*.wav
+*.mp3
+*.avi
+*.mov
+
+# Temporary files
+temp_audio.wav
+censored_audio.mp3
+censored_video.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo 
